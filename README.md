@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/mdjisann001/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mdjisann001/leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/mdjisann001/leetcode/tree/master/0039-combination-sum) |
+| [0997-find-the-town-judge](https://github.com/mdjisann001/leetcode/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdjisann001/leetcode/tree/master/0001-two-sum) |
+| [0997-find-the-town-judge](https://github.com/mdjisann001/leetcode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mdjisann001/leetcode/tree/master/0039-combination-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/mdjisann001/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
