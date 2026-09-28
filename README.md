@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mdjisann001/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mdjisann001/leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/mdjisann001/leetcode/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mdjisann001/leetcode/tree/master/0027-remove-element) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/mdjisann001/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
